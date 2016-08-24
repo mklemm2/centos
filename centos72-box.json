@@ -1,0 +1,17 @@
+{
+  "name": "arago/centos72",
+  "description": "This box contains CentOS 7.2.",
+  "versions": [
+    {
+      "version": "2.0.15",
+      "providers": [
+        {
+          "name": "virtualbox",
+          "url": "file:///Users/mklemm/compile/centos/box/virtualbox/centos72-nocm-2.0.15.box",
+          "checksum_type": "sha1",
+          "checksum": "535511ed6fef47e9089aa3a6ca378146550f1a34"
+        }
+      ]
+    }
+  ]
+}
