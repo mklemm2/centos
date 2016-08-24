@@ -3,6 +3,7 @@ output-*
 *.box
 *.tar.gz
 iso
+iso/
 crash.log
 tmp
 .vagrant/
